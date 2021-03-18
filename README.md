@@ -87,6 +87,8 @@ We prefer it if you did not use any third party CSS frameworks.
 
 We also prefer the use of minimal dependencies.
 
+Use **Redux** If you are comfortable
+
 ## Useful Links
 
 - [Bitbucket](https://bitbucket.org/) - Source code hosting, with free private repositories for small teams.
