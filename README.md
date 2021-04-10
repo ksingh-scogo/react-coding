@@ -1,6 +1,6 @@
 # Stan Coding Challenge
 
-> Welcome to the Stan Coding Challenge!
+> Welcome to the Coding Challenge!
 
 ## Overview
 
