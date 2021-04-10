@@ -1,4 +1,4 @@
-# Stan Coding Challenge
+# Coding Challenge
 
 > Welcome to the Coding Challenge!
 
